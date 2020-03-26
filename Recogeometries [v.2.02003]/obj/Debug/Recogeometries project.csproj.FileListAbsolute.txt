@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\bin\Debug\Recogeometries project.exe.config
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\bin\Debug\Recogeometries project.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\bin\Debug\Recogeometries project.pdb
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\obj\Debug\Recogeometries project.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\obj\Debug\Recogeometries_project.FormMain.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\obj\Debug\Recogeometries_project.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\obj\Debug\Recogeometries project.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\obj\Debug\Recogeometries project.exe
+C:\Users\admin\Documents\Visual Studio 2013\Projects\Algorithms\Recogeometries project\obj\Debug\Recogeometries project.pdb
